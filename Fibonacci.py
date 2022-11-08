@@ -1,14 +1,14 @@
 {}
-## parameters and arguments
+## parameters and arguments Classes and defining classes
 # Author :  Gaylene
-# Created by :   
-# Architect(s):   
+# Created by : Gaylene
+# Architect(s): Gaylene
 # Developer(s): Gaylene
-# Created Date: 11/6/22  
+# Created Date: 11/3/22
 # Description : Edit to Fibonacci with class
-# Version: 2.0  
+# Version: 2.0
 # Modified by:Gaylene
-# Modified Date: 11/6/2022  
+# Modified Date: 11/6/2022
 # Description: Assignment class and definitions for  change assignments
 #
 ##complete other projects with classMethod
